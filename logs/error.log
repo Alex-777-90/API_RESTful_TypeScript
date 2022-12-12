@@ -1,0 +1,12 @@
+2022-12-11 22:17:06:176 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:18:14:1814 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:28:08:288 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:28:18:2818 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be46" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:31:12:3112 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:33:22:3322 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:34:23:3423 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:34:32:3432 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462h" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:36:00:360 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462h" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:36:25:3625 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462h" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 22:37:33:3733 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462h" (type string) at path "_id" for model "Movie"[39m
+2022-12-11 23:48:02:482 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63968366bc5da6aec8be462j" (type string) at path "_id" for model "Movie"[39m
